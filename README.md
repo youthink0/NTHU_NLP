@@ -4,3 +4,7 @@
 * get wiki1G.txt : https://drive.google.com/drive/folders/1vKxr--sLd2J4kdsXUzJDBZdG3AmV4NGl  
 ## lab6_Collocation_Extraction
 * get AKL_skipgram.tsv : https://drive.google.com/drive/folders/17BtzXxHy6khXpXoctydi8mNUkFmp6VQN
+## lab7_Linggle_DIY  
+* 執行code: (environment : Python 3.6.9)
+  * time python mapper.py < nc.10.txt | pv -cN 'mapper to sort' | sort -k1,1 -t$'\t' | pv -cN 'sort to reducer' | python reducer.py | pv -cN 'to output file' > testgram.txt
+  * python linggle.py testgram.txt
