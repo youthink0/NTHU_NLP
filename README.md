@@ -8,3 +8,5 @@
 * 執行code: (environment : Python 3.6.9)
   * time python mapper.py < nc.10.txt | pv -cN 'mapper to sort' | sort -k1,1 -t$'\t' | pv -cN 'sort to reducer' | python reducer.py | pv -cN 'to output file' > testgram.txt
   * python linggle.py testgram.txt
+## lab8_Phrase Classification
+* get train.tsv & test.tsv & GoogleNews-vectors-negative300.bin.gz : https://drive.google.com/drive/folders/13MraQoHdzY6lJSQJ0ETUPhDgaOP_IqzR
