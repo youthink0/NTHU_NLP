@@ -10,3 +10,7 @@
   * python linggle.py testgram.txt
 ## lab8_Phrase Classification
 * get train.tsv & test.tsv & GoogleNews-vectors-negative300.bin.gz : https://drive.google.com/drive/folders/13MraQoHdzY6lJSQJ0ETUPhDgaOP_IqzR
+## lab9_Word_Sense_Disambiguation
+* use party.train.txt & party.test.txt in data folder & GoogleNews-vectors-negative300.bin.gz as same as above link
+## lab10_Example_Sentences_Classification
+* use train.jsonl & test.jsonl in data folder
