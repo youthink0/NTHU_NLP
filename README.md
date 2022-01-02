@@ -14,3 +14,5 @@
 * use party.train.txt & party.test.txt in data folder & GoogleNews-vectors-negative300.bin.gz as same as above link
 ## lab10_Example_Sentences_Classification
 * use train.jsonl & test.jsonl in data folder
+## lab11_Sequence_Classification_with_BERT
+* use evp.test.csv & evp.train.csv in data folder
