@@ -1,4 +1,10 @@
-## lab4_error_correction  
+## environment set up
+ * pip install -r /path/to/requirements.txt
+ * this cmd can get all python package that need to use in all HW
+## lab1_Ngram_Frequency
+## lab2_Find_Academic_Keyword_List
+## lab3_Simple_Language_Model
+## lab4_Error_Correction  
 * get bnc.prune.arpa : https://drive.google.com/drive/folders/1Yg63ivIQoiY8T4KG9Vkkd9Sws3LEIGVF  
 ## lab5_SkipgramAndMapReduce  
 * get wiki1G.txt : https://drive.google.com/drive/folders/1vKxr--sLd2J4kdsXUzJDBZdG3AmV4NGl  
