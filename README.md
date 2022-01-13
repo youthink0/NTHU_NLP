@@ -1,4 +1,4 @@
-## environment set up
+## Environment Set Up
  * pip install -r /path/to/requirements.txt
  * this cmd can get all python package that need to use in all HW
 ## lab1_Ngram_Frequency
